@@ -1,0 +1,2 @@
+#Use this line for the larger map
+python pacman.py -l mediumClassic -p ExpectimaxAgent -a evalFn=better

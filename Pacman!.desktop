@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon[en_US]=/home/innovision/Desktop/pac-man-icon.jpg
+Exec=sampleprogram
+Name[en_US]=Pacman!
+Name=Pacman!
+Icon=/home/innovision/Desktop/pac-man-icon.jpg
